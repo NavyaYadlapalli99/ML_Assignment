@@ -46,7 +46,11 @@ Random Forest | 0.9561 | 0.9944 | 0.9589 | 0.9722 | 0.9655 | 0.9054 |\n
 
 | ML Model | Observation |
 |---|---|
-| Logistic Regression | Strong linear baseline with balanced performance and excellent AUC; feature scaling helps optimization. |\n| Decision Tree | Easy to interpret and captures nonlinear relationships, but a single tree is less stable than an ensemble. |\n| KNN | Distance-based model that benefits from scaling; it gives strong recall on this test split. |\n| Naive Bayes | Fast probabilistic baseline; its feature-independence assumption can limit performance when features are correlated. |\n| Random Forest | An ensemble of decision trees that is robust to nonlinear patterns and gives strong overall performance. |\n
+| Logistic Regression | Strong linear baseline with balanced performance and excellent AUC; feature scaling helps optimization. |\n| 
+Decision Tree | Easy to interpret and captures nonlinear relationships, but a single tree is less stable than an ensemble. |\n| 
+KNN | Distance-based model that benefits from scaling; it gives strong recall on this test split. |\n| 
+Naive Bayes | Fast probabilistic baseline; its feature-independence assumption can limit performance when features are correlated. |\n| 
+Random Forest | An ensemble of decision trees that is robust to nonlinear patterns and gives strong overall performance. |\n
 ### Overall Winner
 
 Based on the **F1 score** on this held-out test set, the overall winner is **Logistic Regression**. The complete metric table should be considered when discussing model performance.
