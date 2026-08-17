@@ -75,7 +75,11 @@ ML_Assignment_2/
 │   └── random_forest.joblib
 ```
 
-## 7. Streamlit Features
+### 7. Streamlit Link:
+https://mlassignmentgit-i9mtl7vyuvrwqlrtnmez3w.streamlit.app/
+
+
+## 8. Streamlit Features
 
 The application provides:
 - CSV test-data upload
@@ -89,4 +93,5 @@ The application provides:
 - Confusion matrix
 - Classification report
 - Prediction table with class-1 probabilities
+
 
