@@ -19,7 +19,7 @@ Target mapping:
 
 ## 3. GitHub Repository Link
 
-`<https://github.com/NavyaYadlapalli99/ML_Assignment_2.git](https://github.com/NavyaYadlapalli99/ML_Assignment.git>`
+<https://github.com/NavyaYadlapalli99/ML_Assignment.git>
 
 ## 4. Models Used and Evaluation
 
